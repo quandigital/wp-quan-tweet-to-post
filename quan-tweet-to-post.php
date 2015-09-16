@@ -1,15 +1,18 @@
 <?php
-/*
-Plugin Name: Quan Tweets to Post
-Plugin URI: http://www.quandigital.com
-Description: Transforms Tweets to Posts
-Version: 0.1
-Author: alpipego
-Author URI: http://alpipego.com/
 
-=== RELEASE NOTES ===
-2014-02-12 - v1.0 - first version
-*/
+/**
+ * Plugin Name: Quan Tweets to Post
+ * Plugin URI: https://github.com/quandigital/wp-quan-tweet-to-post
+ * Author: Quan Digital GmbH
+ * Author URI: http://www.quandigital.com
+ * Description: Transforms Tweets to Posts
+ * Version: 1.0.1
+ * Author: alpipego
+ * Author URI: http://alpipego.com/
+ * 
+ * === RELEASE NOTES ===
+ * 2014-02-12 - v1.0 - first version
+ */
 
 	defined( 'ABSPATH' ) or exit;
 
